@@ -139,9 +139,10 @@ print("=" * 60)
 
 ```
 # Calculation:
-```
-Compare the manually calculated value and the observed practical value.
-```
+
+<img width="626" height="646" alt="image" src="https://github.com/user-attachments/assets/ae0d43ba-2a66-4a42-a5e7-7132ca61270e" />
+<img width="624" height="556" alt="image" src="https://github.com/user-attachments/assets/6e0d326d-c925-43bd-a3ee-cf62e59e449c" />
+
 # Output
 ```
 Symbols and Probabilities
